@@ -13,10 +13,20 @@ Documentation of your creative process is an integral part of your creative work
 With this in mind, throughout the duration of the semester each student must carefully document all of the work created in this class, from brainstorming sessions with post-it notes to pages in a sketchbook to rough prototypes. You will post this documentation on your process website on a daily or weekly basis.
 
 You have several options:
-* Create a dedicated tumblr for this course only.
+
 * Get wordpress installed via sites.bxmc.poly.edu (see below) in a directory labeled **ip**
 * If you already have a sites.bxmc.poly.edu account, have Elton install another instance of wordpress in a directory labeled **ip** (see below)
 * Alternatively create an **ip** directory if you already have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.
+
+
+Your site must have the following sections that are accessible via a menu or tags: 
+
+- Sketchbook
+- Reflections & Responses (ie, written homework)
+- Homework (Visual, Graphical assignments)
+- Constant Input/Output
+- Midterm Project: Creative Process
+- Final Project: Dystopia
 
 ### Wordpress Group Registration
 

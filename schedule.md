@@ -48,7 +48,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">wk 2<p>Sept 11 </p>
     </td>
     <td valign="top">
-    <strong> Phase 1: Discovery / Inspiration / Process: </strong>
+    <strong> Last Day to drop is Sept 17 <br> <br> Phase 1: Discovery / Inspiration / Process: </strong>
     <ul>
     Discuss: <br>
     <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
@@ -123,9 +123,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Iterate/Revise outline for the paper </li> </ul></ul>   
     </td>
 </tr>
-<tr> <td>
+<tr> 
 <td valign="top"><p>Oct 6 </p></td> 
- <td valign="top"> <strong> Go back in time at NYU. It's Monday on campus, not Tuesday </strong> 
+ <td valign="top" colspan="2"> <strong> Go back in time at NYU. It's Monday on campus, not Tuesday </strong> 
 </td>
 </tr>
 <tr>
@@ -154,13 +154,11 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td></td>
-<td colspan="2">
-Set up a time to meet with me for 20 minutes to discuss your progress in the course use this <a href = "https://calendly.com/ladyk/mid-term-one-on-ones/11-14-2017">link.</a>
-</td>
+
 </tr>
 <tr>
     <td valign="top">wk 8<p>Oct 30</p></td>      
-    <td valign="top"><strong>Last Day to drop. <br>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br></td>
+    <td valign="top"><strong>Last Day to drop is Nov 5th. <br>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br></td>
     <td valign="top">
     <ul>
     <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website. See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
@@ -246,8 +244,6 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <li>Hi-Fidelity Prototype Draft</li>
     <li>Hi-Fidelity Prototype Delivery medium</li>
     <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
-
-    </ul></td>
 </tr>
 <tr>
     <td valign="top">wk 14<p>Dec 11</p></td>  
