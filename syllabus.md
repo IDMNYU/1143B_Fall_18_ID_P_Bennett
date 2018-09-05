@@ -236,6 +236,8 @@ See Appendix
 
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&p_fa18_assignmentname (i.e. kbennett_i&p_fa18_assignmentname.pdf)
 
+Generally, please post all homework assignments to your Process Site by Sunday evening.
+
 
 #### Projects
 * [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)

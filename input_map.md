@@ -7,6 +7,8 @@ Create a mind map or concept map of all of the various inputs in your life (i.e.
 
 Post to your process website. We must be able to see this image clearly, including all of the details. You may have to upload micro and macro views of your map as images. You may also have multiple input maps. Infact, after doing one, you should have a better idea on how to make a second one, or another version that is far superior. Do the second (or third, or fourth) and post them all.
 
+Please post this to your site by Sunday evening.
+
 **Recommended Mapping Software**
 
 _(for those of you who want to go digital)_

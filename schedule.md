@@ -39,9 +39,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Accept Slack Invitation when received</li> 
     <li> <a href = "process_website.md"> Process Website: set up. Post the URL on the Slack channel under "sites"  </a> </li>
     <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
-    <li>Post your <a href="constant_input_choices.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.)</li>
-    <li><a href = "personal_inventory.md">Personal Inventories</li> </a> 
-    <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website</li>  
+    <li>Post your <a href="constant_input_choices.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website by Sunday evening.</li>
+    <li><a href = "personal_inventory.md">Personal Inventories,  post to your process website by Sunday evening.</li> </a> 
+    <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website by Sunday evening.</li>  
     </td>
 </tr>
 <tr>
@@ -64,10 +64,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td> 
     <td valign="top">
     <li> <a href="classmate_discovery.md">Classmate Discovery</a></li>
-     <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
+     <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos. Post to your process website by Sunday evening.</li>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>   
-     <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li> 
-     <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site.</li>
+     <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website by Sunday evening.</li> 
+     <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site. Post to your process website by Sunday evening.</li>
     <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     </td>
 </tr>
@@ -108,7 +108,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
         <ul>
         <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
         <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
-        <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+        <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website by Sunday evening.</li>
         </ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
 </td>
@@ -134,7 +134,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details.</li>
+    <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details. Post to your process website by Sunday evening.</li>
     <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul>
     <li>Collaboratively iterate hybrid animatic/video draft</li>
     <li>Collaboratively create group draft of paper</li>
@@ -161,7 +161,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top"><strong>Last Day to drop is Nov 5th. <br>Midterm Class Critique - Process Presentations</strong><strong> Phase 5: Pitching & Presenting </strong> <br></td>
     <td valign="top">
     <ul>
-    <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website. See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
+    <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website. Post to your process website by Sunday evening.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod8/content/index.html#/?_k=6m31cj"> Read Module 8 </a> </li>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
@@ -177,7 +177,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">Review Homework</td>    
     <td valign="top">
     <ul>
-    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site:</li> 
+    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site, by Sunday evening.</li> 
     <ul>
     <li>Ideation continued</li>
     <li>Storytelling</li>
@@ -195,7 +195,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
      <li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
-    <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
+    <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site by Sunday evening:</li> 
     <ul>
     <li>Storyboard Draft</li>
     <li>Lo-fi Prototype Draft</li>
@@ -210,7 +210,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site by Sunday evening:</li> 
         <ul>
         <li>Storyboard Revision</li>
         <li>Iterate Sketching and Mapping</li>
@@ -226,7 +226,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">Review Homework <br> <strong>Review Constant Input Projects </strong></td> 
     <td valign="top">
     <ul>
-   <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
+   <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site by Sunday evening:</li>
     <ul>
     <li>Hi-Fidelity Prototype Draft</li>
     <li>Hi-Fidelity Prototype Delivery medium</li>
@@ -252,9 +252,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
    <ul>
-            <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
         </ul>
-
 </ul></td>
 
 
