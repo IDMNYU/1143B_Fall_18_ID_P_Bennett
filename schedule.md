@@ -124,7 +124,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
 </tr>
 <tr> 
-<td valign="top"><p>Oct 6 </p></td> 
+<td valign="top"><p>Oct 9 </p></td> 
  <td valign="top" colspan="2"> <strong> Go back in time at NYU. It's Monday on campus, not Tuesday </strong> 
 </td>
 </tr>
