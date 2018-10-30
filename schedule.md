@@ -163,13 +163,26 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
     <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website. Post to your process website by Sunday evening.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod8/content/index.html#/?_k=6m31cj"> Read Module 8 </a> </li>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
+      <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
+    <li> Create each of the following with regard to the final project, and post to your process site under the heading/tag/page for your final project: Future:
         <ul>
-        <li>Brainstorm themes</li>
-        <li>Ideation</li>
-        </ul>
-    </ul>    
+            <li> clear visual documentation of the Card Sorting exercise on your process site, along with a written reflection on 3 outcomes that were generated as possible stories + messages for the final.
+            </li>
+            <li>
+                Generate at least 2 Mind Maps, further exploring 2 of the possible stories + messages. Post the visuals to your blog along with a written reflection about what was generated and how things have developed.
+            </li>
+            <li>
+                Take those developments from your Mind Mapping and generate a visual concept map, further exploring the relationships and meanings behind these concepts. This should be larger, explorative and thoughtful.
+                Post the visuals to your blog along with a written reflection about what was generated and how things have developed.
+            </li>
+            <li> Going further for extra credit: Develop a 150 Word List, further exploring your developments and ideas.
+            </li>
+            <li>
+                Create a post that is a written statement regarding what your Future project is going to be about. What is the story? What is the message? What are some possible  objects? What are some possible the delivery mediums?
+            </li>
+            </ul>
+        </li>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>    
     </td>
 </tr>
 <tr>
