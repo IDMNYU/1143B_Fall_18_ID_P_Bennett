@@ -21,6 +21,8 @@ In this class, the creative process will be investigated in order to generate id
 
 Prerequisite: None
 
+#### [Maker Center Calendar](http://vgb1.hosting.nyu.edu/training/)
+
 ### PROGRAM GOALS
 
 The following Integrated Digital Media program goals are introduced and reinforced within this course. Students will:
